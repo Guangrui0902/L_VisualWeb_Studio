@@ -34,7 +34,7 @@ export function HeroCanvas() {
         transition={{ duration: 5.5, repeat: Infinity, ease: "easeInOut", delay: 1 }}
       >
         <span className="font-mono text-[10px] text-ink-muted">Fixed packages</span>
-        <span className="font-mono text-[9px] text-ink-faint mt-2">from $880 AUD</span>
+        <span className="font-mono text-[9px] text-ink-faint mt-2">from $980 AUD</span>
       </motion.div>
       <div className="hero-canvas-scan" />
     </div>

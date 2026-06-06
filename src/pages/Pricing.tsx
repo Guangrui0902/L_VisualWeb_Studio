@@ -221,7 +221,7 @@ export function Pricing() {
           </p>
         </motion.div>
 
-        <div className="grid lg:grid-cols-3 gap-3 sm:gap-4 mt-10" role="tablist" aria-label="Packages">
+        <div className="grid sm:grid-cols-2 xl:grid-cols-4 gap-3 sm:gap-4 mt-10" role="tablist" aria-label="Packages">
           {packages.map((pkg) => {
             const active = pkg.id === selectedId;
             return (

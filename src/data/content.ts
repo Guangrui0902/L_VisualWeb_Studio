@@ -35,7 +35,7 @@ export const heroStats = [
   },
   {
     v: "Value",
-    labelEn: "Fixed packages · Starting at $880",
+    labelEn: "Fixed packages · Starting at $980",
     labelZh: "一口价 · 优秀性价比",
   },
   {
